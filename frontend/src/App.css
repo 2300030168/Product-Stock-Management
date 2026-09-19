@@ -1,0 +1,22 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; color: #222; }
+.container { max-width: 900px; margin: 0 auto; padding: 16px; }
+h1 { color: #1f4e79; }
+.tabs, .row { display: flex; gap: 8px; margin: 12px 0; align-items: center; flex-wrap: wrap; }
+button { padding: 10px 14px; border: 1px solid #1f4e79; background: #fff; border-radius: 6px; cursor: pointer; font-size: 15px; }
+button.active, button.primary { background: #1f4e79; color: #fff; }
+button.primary { margin-top: 12px; width: 100%; font-size: 17px; }
+button.link { border: none; background: none; color: #1f4e79; text-decoration: underline; padding: 4px; }
+input, select { padding: 10px; font-size: 16px; border: 1px solid #bbb; border-radius: 6px; flex: 1; min-width: 0; }
+.search { width: 100%; box-sizing: border-box; margin-bottom: 10px; }
+label { display: flex; flex-direction: column; gap: 4px; margin-top: 10px; font-weight: bold; font-size: 14px; }
+.card { background: #fff; padding: 16px; border-radius: 8px; max-width: 480px; }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { padding: 10px; border-bottom: 1px solid #e3e3e3; text-align: left; }
+th { background: #1f4e79; color: #fff; }
+.small { color: #777; font-size: 12px; }
+.badge { padding: 3px 8px; border-radius: 10px; color: #fff; font-size: 13px; }
+.badge.green { background: #2e9e4f; } .badge.orange { background: #e08a00; } .badge.red { background: #d13438; }
+.alert { background: #fff3cd; border: 1px solid #ffe08a; padding: 10px; border-radius: 6px; margin-bottom: 8px; }
+.error { background: #fde7e9; color: #a4262c; padding: 10px; border-radius: 6px; margin-top: 10px; }
+.success { background: #e6f4ea; color: #1e6e3a; padding: 10px; border-radius: 6px; margin-top: 10px; }
+tr.cancelled { color: #999; text-decoration: line-through; }
