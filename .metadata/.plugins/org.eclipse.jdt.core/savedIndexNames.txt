@@ -9,7 +9,6 @@ INDEX VERSION 1.134+C:\Users\saikr\OneDrive\Desktop\inventory-module\.metadata\.
 3992916760.index
 1804521109.index
 1582048203.index
-1965174767.index
 1720646123.index
 233165612.index
 3544317764.index
@@ -48,6 +47,7 @@ INDEX VERSION 1.134+C:\Users\saikr\OneDrive\Desktop\inventory-module\.metadata\.
 3413270776.index
 1388492144.index
 3670211779.index
+1865797976.index
 3924291452.index
 3245278473.index
 2961904628.index
